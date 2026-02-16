@@ -1,0 +1,592 @@
+Order_Date,Time,Aging,Customer_Id,Gender,Device_Type,Customer_Login_type,Product_Category,Product,Sales,Quantity,Discount,Profit,Shipping_Cost,Order_Priority,Payment_method
+2018-01-02,10:56:33,8.0,37077,Female,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.3,46.0,4.6,Medium,credit_card
+2018-07-24,20:41:37,2.0,59173,Female,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.3,112.0,11.2,Medium,credit_card
+2018-11-08,08:38:49,8.0,41066,Female,Web,Member,Auto & Accessories,Car Body Covers,117.0,5.0,0.1,31.2,3.1,Critical,credit_card
+2018-04-18,19:28:06,7.0,50741,Female,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.3,26.2,2.6,High,credit_card
+2018-08-13,21:18:39,9.0,53639,Female,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.3,160.0,16.0,Critical,credit_card
+2018-07-09,21:57:05,8.0,39783,Female,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,24.0,2.4,Critical,credit_card
+2018-05-16,13:10:30,1.0,26767,Female,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,54.0,5.4,High,credit_card
+2018-06-23,18:29:09,7.0,20719,Female,Web,Member,Auto & Accessories,Car Seat Covers,114.0,5.0,0.2,22.6,2.3,Critical,credit_card
+2018-07-29,11:55:02,7.0,46947,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,5.0,0.3,116.4,11.6,Critical,credit_card
+2018-05-16,19:41:10,10.0,31839,Female,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.2,54.4,5.4,Critical,money_order
+2018-07-13,19:58:11,10.0,22249,Female,Web,Member,Auto & Accessories,Car Speakers,211.0,4.0,0.1,122.6,12.3,Critical,credit_card
+2018-10-07,10:06:19,1.0,15109,Female,Web,Member,Auto & Accessories,Car Body Covers,117.0,4.0,0.3,18.3,1.8,High,credit_card
+2018-07-25,17:44:10,7.0,18622,Female,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.2,35.6,3.6,Critical,credit_card
+2018-12-01,14:14:28,5.0,56296,Female,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.3,140.0,14.0,High,credit_card
+2018-10-07,19:03:12,9.0,34138,Female,Web,Member,Auto & Accessories,Bike Tyres,72.0,4.0,0.1,18.0,1.8,Medium,credit_card
+2018-06-02,19:00:43,10.0,51112,Female,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.1,27.0,2.7,Critical,credit_card
+2018-03-26,23:41:31,4.0,57057,Female,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,22.6,2.3,High,credit_card
+2018-04-21,00:03:41,7.0,50942,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,5.0,0.3,93.3,9.3,High,credit_card
+2018-01-26,15:54:26,7.0,42384,Female,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.3,46.0,4.6,Critical,credit_card
+2018-02-18,14:31:30,6.0,26127,Female,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.2,122.6,12.3,Critical,credit_card
+2018-12-15,08:52:40,4.0,14449,Female,Web,Member,Auto & Accessories,Car Body Covers,117.0,5.0,0.1,31.2,3.1,Critical,credit_card
+2018-08-03,20:37:35,7.0,16823,Female,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.3,30.9,3.1,High,credit_card
+2018-06-08,07:55:29,6.0,15976,Female,Web,Member,Auto & Accessories,Tyre,250.0,4.0,0.2,150.0,15.0,High,credit_card
+2018-11-09,11:44:40,2.0,51542,Female,Web,Member,Auto & Accessories,Bike Tyres,72.0,4.0,0.2,18.0,1.8,Critical,credit_card
+2018-08-20,23:46:53,8.0,42676,Female,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,54.0,5.4,High,money_order
+2018-10-04,00:00:13,4.0,56593,Female,Web,Member,Auto & Accessories,Car Seat Covers,114.0,4.0,0.2,24.9,2.5,Critical,e_wallet
+2018-12-12,01:50:26,8.0,37689,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.3,144.1,14.4,Critical,credit_card
+2018-05-02,11:45:38,,26058,Female,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.3,55.8,5.6,High,credit_card
+2018-08-25,13:50:30,7.0,38941,Female,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.3,112.0,11.2,Medium,credit_card
+2018-11-10,11:58:33,4.0,19919,Female,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.2,34.7,3.5,High,money_order
+2018-09-16,21:15:39,9.0,56625,Female,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.3,27.4,2.7,Critical,credit_card
+2018-03-12,13:56:04,5.0,33501,Female,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.2,165.0,16.5,Medium,credit_card
+2018-08-03,12:38:58,10.0,40865,Female,Web,Member,Auto & Accessories,Bike Tyres,72.0,4.0,0.3,18.0,1.8,High,credit_card
+2018-07-29,23:34:51,5.0,38256,Female,Web,Member,Auto & Accessories,Car Mat,54.0,4.0,0.3,13.5,1.4,Critical,credit_card
+2018-08-17,15:59:46,1.0,14567,Female,Web,Member,Auto & Accessories,Car Seat Covers,114.0,4.0,0.1,29.4,2.9,High,credit_card
+2018-08-21,18:15:12,4.0,38178,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.3,127.9,12.8,High,credit_card
+2018-07-30,21:37:10,6.0,24153,Female,Web,Member,Auto & Accessories,Car Media Players,140.0,5.0,0.3,32.0,3.2,Medium,credit_card
+2018-10-01,12:23:13,3.0,27385,Female,Web,Member,Auto & Accessories,Car Speakers,211.0,4.0,0.1,122.6,12.3,Critical,credit_card
+2018-12-26,17:12:18,2.0,44937,Female,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.3,32.3,3.2,High,credit_card
+2018-05-19,18:53:40,6.0,38490,Female,Web,Member,Auto & Accessories,Car & Bike Care,118.0,5.0,0.3,14.4,1.4,Critical,money_order
+2018-04-24,21:27:48,4.0,30549,Female,Web,Member,Auto & Accessories,Tyre,250.0,5.0,0.3,132.5,13.3,Critical,credit_card
+2018-11-04,17:10:39,8.0,50606,Female,Web,Member,Auto & Accessories,Bike Tyres,72.0,5.0,0.2,14.4,1.4,Critical,credit_card
+2018-11-04,23:25:30,1.0,42084,Female,Web,Member,Auto & Accessories,Car Mat,54.0,5.0,0.1,10.8,1.1,High,money_order
+2018-05-18,13:55:47,5.0,52161,Female,Web,Member,Auto & Accessories,Car Seat Covers,114.0,4.0,0.3,15.8,1.6,Critical,credit_card
+2018-05-14,20:28:25,7.0,32218,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,4.0,0.3,114.0,11.4,High,money_order
+2018-05-17,16:59:11,8.0,36491,Female,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.3,46.0,4.6,Critical,credit_card
+2018-07-29,11:24:17,6.0,12227,Female,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.1,128.9,12.9,Critical,credit_card
+2018-11-09,20:19:05,1.0,13196,Female,Web,Member,Auto & Accessories,Car Body Covers,117.0,4.0,0.3,13.6,1.4,Critical,credit_card
+2018-08-01,14:02:19,6.0,50444,Female,Web,Guest,Auto & Accessories,Car & Bike Care,118.0,5.0,0.3,14.4,1.4,Critical,credit_card
+2018-10-26,13:42:52,5.0,24528,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.1,165.0,16.5,Medium,credit_card
+2018-07-26,14:39:59,3.0,57748,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.1,36.0,3.6,Critical,credit_card
+2018-03-15,00:06:10,6.0,46349,Male,Web,Member,Auto & Accessories,Car Mat,54.0,5.0,0.3,10.8,1.1,High,credit_card
+2018-11-30,08:15:24,4.0,54853,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,4.0,0.3,11.2,1.1,High,credit_card
+2018-10-11,10:25:52,2.0,28082,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.3,132.5,13.3,High,money_order
+2018-10-11,08:18:19,6.0,20444,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.3,51.6,5.2,High,money_order
+2018-12-09,14:50:15,5.0,51472,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.1,128.9,12.9,Critical,credit_card
+2018-12-13,18:14:36,8.0,45606,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,4.0,0.2,27.6,2.8,High,credit_card
+2018-10-13,21:11:26,5.0,47238,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.3,20.3,2.0,Critical,credit_card
+2018-04-30,22:02:15,6.0,18609,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.3,160.0,16.0,Medium,credit_card
+2018-11-05,13:09:48,3.0,39387,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,36.0,3.6,High,credit_card
+2018-04-15,11:31:41,9.0,47027,Male,Web,Member,Auto & Accessories,Car Mat,54.0,5.0,0.1,10.8,1.1,High,credit_card
+2018-08-19,20:31:09,9.0,31526,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.1,30.6,3.1,High,credit_card
+2018-09-22,08:48:13,8.0,25308,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,5.0,0.2,127.9,12.8,Medium,money_order
+2018-06-07,21:44:54,2.0,47320,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.3,53.0,5.3,Critical,credit_card
+2018-08-10,13:26:59,4.0,52527,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.3,109.9,11.0,Medium,money_order
+2018-10-18,16:02:23,2.0,17333,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.2,34.7,3.5,High,credit_card
+2018-10-13,13:47:39,3.0,26223,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.1,36.8,3.7,High,credit_card
+2018-07-15,08:33:19,1.0,22734,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.1,167.5,16.8,High,money_order
+2018-02-13,14:27:11,2.0,54066,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.2,72.0,7.2,High,e_wallet
+2018-09-13,08:44:17,4.0,55093,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,54.0,5.4,Critical,credit_card
+2018-08-15,10:33:30,2.0,49436,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,4.0,0.3,20.3,2.0,Medium,e_wallet
+2018-08-20,11:45:39,3.0,41257,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.3,116.4,11.6,Medium,credit_card
+2018-09-20,17:15:46,6.0,55433,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,4.0,0.3,32.0,3.2,High,money_order
+2018-02-15,09:19:48,1.0,13366,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,5.0,0.1,120.5,12.0,Critical,credit_card
+2018-07-28,16:52:55,4.0,41451,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,4.0,0.1,32.3,3.2,High,credit_card
+2018-11-09,18:32:47,2.0,42588,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.1,36.8,3.7,High,e_wallet
+2018-11-26,22:04:34,9.0,26754,Male,Web,Member,Auto & Accessories,Tyre,250.0,4.0,0.3,140.0,14.0,Critical,credit_card
+2018-07-30,03:06:35,10.0,34365,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,4.0,0.3,18.0,1.8,Critical,credit_card
+2018-03-22,00:17:37,4.0,49745,Male,Web,Member,Auto & Accessories,Car Mat,54.0,5.0,0.3,10.8,1.1,High,credit_card
+2018-09-06,22:39:29,8.0,53213,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,28.3,2.8,Critical,credit_card
+2018-05-09,20:48:59,8.0,43735,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.3,144.1,14.4,High,credit_card
+2018-09-20,20:42:44,8.0,14760,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.1,58.6,5.9,High,credit_card
+2018-01-16,14:56:50,10.0,44410,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,5.0,0.3,99.4,9.9,High,credit_card
+2018-03-08,09:42:43,1.0,53552,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.2,30.0,3.0,Critical,credit_card
+2018-11-26,16:53:30,1.0,39696,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.3,28.6,2.9,High,credit_card
+2018-08-27,12:55:42,3.0,22235,Male,Web,Member,Auto & Accessories,Tyre,250.0,4.0,0.3,120.0,12.0,Critical,debit_card
+2018-05-11,13:10:51,7.0,42599,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.2,36.0,3.6,High,credit_card
+2018-06-22,19:22:22,7.0,27079,Female,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,27.0,2.7,Critical,credit_card
+2018-05-01,08:12:37,1.0,57745,Male,Web,Guest,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,24.9,2.5,High,credit_card
+2018-02-19,22:17:15,4.0,20917,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,5.0,0.3,104.8,10.5,Critical,credit_card
+2018-09-11,22:32:31,2.0,54446,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.3,54.4,5.4,High,credit_card
+2018-03-20,23:45:07,5.0,55746,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.1,124.7,12.5,Critical,credit_card
+2018-09-22,23:23:18,10.0,58534,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.2,32.3,3.2,Critical,credit_card
+2018-11-03,08:59:39,2.0,53957,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,4.0,0.3,19.1,1.9,Critical,credit_card
+2018-05-14,08:35:33,8.0,53395,Male,Web,Member,Auto & Accessories,Tyre,250.0,4.0,0.3,140.0,14.0,High,credit_card
+2018-04-22,11:32:22,5.0,52267,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,,0.1,36.0,3.6,Critical,credit_card
+2018-12-30,07:50:33,7.0,29085,Male,Web,Member,Auto & Accessories,Car Mat,54.0,5.0,0.2,10.8,1.1,High,credit_card
+2018-10-05,09:10:34,8.0,56399,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,20.3,2.0,High,credit_card
+2018-11-26,11:04:26,5.0,27009,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.2,141.8,14.2,Critical,credit_card
+2018-05-17,08:36:11,2.0,35336,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.1,58.6,5.9,Critical,credit_card
+2018-07-30,22:41:44,6.0,26503,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,5.0,0.3,99.4,9.9,Critical,money_order
+2018-12-01,22:14:26,2.0,50579,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.3,26.5,2.6,High,credit_card
+2018-08-06,21:09:10,4.0,54326,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,5.0,0.3,14.4,1.4,Critical,e_wallet
+2018-06-28,23:45:53,10.0,23420,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.3,132.5,13.3,High,credit_card
+2018-06-27,22:04:34,6.0,32534,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,4.0,0.3,18.0,1.8,High,credit_card
+2018-07-01,15:42:32,1.0,22902,Male,Web,Member,Auto & Accessories,Car Mat,54.0,5.0,0.1,10.8,1.1,Critical,credit_card
+2018-02-27,12:07:22,1.0,31526,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.2,29.4,2.9,Critical,credit_card
+2018-04-28,21:00:44,7.0,40170,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.2,137.1,13.7,Critical,money_order
+2018-08-01,12:31:21,6.0,18701,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,4.0,0.3,43.2,4.3,Medium,credit_card
+2018-11-22,16:10:29,10.0,10773,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.3,99.4,9.9,Critical,credit_card
+2018-07-06,23:36:15,4.0,41607,Female,Web,Member,Auto & Accessories,Car Body Covers,117.0,5.0,0.3,7.8,0.8,Critical,credit_card
+2018-05-09,18:27:00,2.0,26936,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.1,34.5,3.4,Medium,debit_card
+2018-04-26,17:49:46,10.0,56518,Male,Web,Member,Auto & Accessories,Tyre,250.0,5.0,0.1,157.5,15.8,High,credit_card
+2018-10-27,23:11:57,9.0,44722,Female,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,36.0,3.6,High,credit_card
+2018-06-23,10:32:39,5.0,39332,Male,Web,Member,Auto & Accessories,Car Mat,54.0,4.0,0.2,13.5,1.4,High,credit_card
+2018-11-20,18:24:30,7.0,39095,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,5.0,0.3,5.5,0.6,High,credit_card
+2018-06-30,07:51:17,1.0,55428,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,4.0,0.2,132.5,13.3,Critical,credit_card
+2018-12-30,14:20:46,1.0,16481,Male,Web,Guest,Auto & Accessories,Car Media Players,140.0,1.0,0.3,54.4,5.4,High,credit_card
+2018-12-07,23:00:33,8.0,23129,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.3,105.7,10.6,High,credit_card
+2018-05-08,22:12:34,7.0,39272,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,5.0,0.1,31.2,3.1,Critical,credit_card
+2018-12-30,14:46:00,8.0,54296,Male,Web,Guest,Auto & Accessories,Car & Bike Care,118.0,5.0,0.3,20.3,2.0,High,credit_card
+2018-04-24,21:55:22,5.0,50254,Male,Web,Member,Auto & Accessories,Tyre,250.0,4.0,0.3,120.0,12.0,High,e_wallet
+2018-09-25,22:18:10,6.0,42386,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,4.0,0.3,18.0,1.8,Critical,credit_card
+2018-07-16,10:27:45,7.0,16296,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.1,54.0,5.4,High,money_order
+2018-04-21,12:08:32,7.0,43547,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.2,27.2,2.7,High,credit_card
+2018-01-19,15:08:48,10.0,58155,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.1,148.7,14.9,Critical,money_order
+2018-07-22,15:19:05,9.0,46686,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.1,58.6,5.9,High,credit_card
+2018-03-02,14:28:03,1.0,39372,Male,Web,Guest,Auto & Accessories,Car Speakers,211.0,1.0,0.1,124.7,12.5,High,credit_card
+2018-12-26,09:14:26,3.0,23926,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,5.0,0.3,13.6,1.4,High,credit_card
+2018-06-09,06:37:43,3.0,59723,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,5.0,0.2,26.2,2.6,Medium,credit_card
+2018-08-06,18:25:39,2.0,13656,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.2,155.0,15.5,High,money_order
+2018-07-18,13:39:54,3.0,47245,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,5.0,0.3,14.4,1.4,Critical,credit_card
+2018-12-28,16:03:34,7.0,26200,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.2,54.0,5.4,High,credit_card
+2018-10-08,12:19:58,9.0,34771,Male,Web,Guest,Auto & Accessories,Car Seat Covers,114.0,5.0,0.3,5.5,0.6,Critical,e_wallet
+2018-07-10,12:23:05,4.0,30722,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.2,141.8,14.2,Critical,money_order
+2018-05-16,16:10:21,6.0,46226,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.3,55.8,5.6,High,credit_card
+2018-07-05,18:40:47,10.0,31323,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,4.0,0.2,114.1,11.4,Critical,credit_card
+2018-02-20,17:12:34,6.0,57896,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,5.0,0.3,13.6,1.4,Critical,credit_card
+2018-08-21,17:15:49,1.0,52183,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,5.0,0.3,14.4,1.4,Critical,credit_card
+2018-06-10,14:18:40,3.0,16327,Male,Web,Member,Auto & Accessories,Tyre,250.0,4.0,0.3,120.0,12.0,Medium,e_wallet
+2018-09-26,16:14:11,2.0,31345,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,5.0,0.3,14.4,1.4,Critical,credit_card
+2018-04-27,19:24:52,2.0,17243,Female,Web,Member,Auto & Accessories,Car Mat,54.0,5.0,0.3,10.8,1.1,Medium,credit_card
+2018-05-11,16:35:19,3.0,27820,Male,Web,Guest,Auto & Accessories,Car Seat Covers,114.0,4.0,0.3,11.2,1.1,Critical,money_order
+2018-05-25,08:54:21,4.0,58874,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.3,139.5,13.9,Critical,credit_card
+2018-04-26,09:32:06,7.0,28090,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,5.0,0.1,53.0,5.3,Critical,money_order
+2018-04-17,21:14:42,5.0,44331,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,5.0,0.3,88.8,8.9,High,credit_card
+2018-07-23,18:27:07,6.0,46006,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.2,34.7,3.5,Critical,credit_card
+2018-08-14,13:05:17,3.0,22080,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,5.0,0.3,8.5,0.9,Medium,credit_card
+2018-09-30,22:43:56,5.0,41793,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.3,160.0,16.0,Critical,credit_card
+2018-05-15,16:29:03,8.0,28996,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.2,24.0,2.4,High,credit_card
+2018-07-22,19:16:47,3.0,36277,Male,Web,Member,Auto & Accessories,Car Mat,54.0,4.0,0.3,13.5,1.4,High,credit_card
+2018-10-24,19:01:52,2.0,45487,Male,Web,Guest,Auto & Accessories,Car Seat Covers,114.0,4.0,0.3,15.8,1.6,Critical,money_order
+2018-07-02,12:54:20,10.0,13020,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.3,144.1,14.4,Critical,credit_card
+2018-12-06,00:14:28,6.0,52525,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.1,58.6,5.9,High,credit_card
+2018-01-04,23:02:21,2.0,29479,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,5.0,0.3,99.4,9.9,High,credit_card
+2018-03-21,17:43:41,8.0,16029,Female,Web,Member,Auto & Accessories,Car Body Covers,117.0,4.0,0.1,32.3,3.2,Critical,money_order
+2018-08-02,16:15:41,2.0,37402,Male,Web,Guest,Auto & Accessories,Car & Bike Care,118.0,1.0,0.3,32.1,3.2,Critical,money_order
+2018-10-01,11:26:06,4.0,53794,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.1,162.5,16.3,Medium,credit_card
+2018-11-09,16:23:03,1.0,32178,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.1,24.0,2.4,High,credit_card
+2018-04-15,13:47:34,9.0,58607,Male,Web,Member,Auto & Accessories,Car Mat,54.0,5.0,0.3,10.8,1.1,Medium,credit_card
+2018-09-26,11:59:05,9.0,20045,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.1,31.7,3.2,High,credit_card
+2018-07-15,12:37:12,3.0,15311,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,4.0,0.3,123.3,12.3,Critical,credit_card
+2018-05-30,22:33:08,6.0,48474,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.3,55.8,5.6,Critical,credit_card
+2018-03-02,14:08:33,1.0,20784,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.2,122.6,12.3,Medium,money_order
+2018-12-29,14:27:41,9.0,13649,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,4.0,0.2,27.6,2.8,Critical,e_wallet
+2018-10-25,15:36:18,7.0,45439,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.1,36.8,3.7,Critical,credit_card
+2018-02-11,07:54:38,1.0,34182,Male,Web,Member,Auto & Accessories,Tyre,250.0,5.0,0.2,145.0,14.5,Critical,e_wallet
+2018-09-15,19:42:06,1.0,30880,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,72.0,7.2,High,credit_card
+2018-06-13,08:19:23,2.0,52427,Male,Web,Member,Auto & Accessories,Car Mat,54.0,5.0,0.3,10.8,1.1,Critical,money_order
+2018-09-04,08:39:50,5.0,55136,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,24.9,2.5,High,credit_card
+2018-02-26,12:32:39,1.0,47162,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,4.0,0.2,132.5,13.3,High,credit_card
+2018-08-28,17:00:28,8.0,56059,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,4.0,0.2,48.8,4.9,Critical,credit_card
+2018-09-22,19:26:47,8.0,27239,Female,Web,Member,Auto & Accessories,Car Speakers,211.0,4.0,0.1,122.6,12.3,Medium,credit_card
+2018-02-13,09:18:50,5.0,49838,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,5.0,0.3,19.5,1.9,High,credit_card
+2018-06-18,09:30:54,1.0,48939,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,5.0,0.1,32.1,3.2,High,credit_card
+2018-12-14,16:25:43,5.0,37902,Male,Web,Member,Auto & Accessories,Tyre,250.0,5.0,0.3,132.5,13.3,High,money_order
+2018-03-20,12:30:40,10.0,31091,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,36.0,3.6,Critical,money_order
+2018-03-04,17:24:57,5.0,36695,Male,Web,Guest,Auto & Accessories,Car Mat,54.0,1.0,0.3,27.0,2.7,High,credit_card
+2018-11-03,22:23:06,10.0,52162,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,27.2,2.7,Critical,money_order
+2018-12-29,14:29:44,10.0,22796,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.3,139.5,13.9,High,credit_card
+2018-05-18,20:59:24,6.0,20028,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,5.0,0.3,25.0,2.5,High,credit_card
+2018-10-16,00:22:49,2.0,38370,Female,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.2,126.8,12.7,High,e_wallet
+2018-07-05,09:16:49,2.0,47033,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,5.0,0.3,13.6,1.4,Medium,e_wallet
+2018-07-27,12:45:51,2.0,55217,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,4.0,0.3,23.8,2.4,Critical,credit_card
+2018-07-08,14:12:08,3.0,24701,Male,Web,Member,Auto & Accessories,Tyre,250.0,4.0,0.3,120.0,12.0,Critical,credit_card
+2018-12-15,16:59:11,8.0,17706,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.1,24.0,2.4,Critical,money_order
+2018-10-25,19:30:09,2.0,59762,Male,Web,Member,Auto & Accessories,Car Mat,54.0,5.0,0.2,10.8,1.1,High,credit_card
+2018-08-28,21:27:43,1.0,43985,Male,Web,Guest,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,28.3,2.8,Critical,credit_card
+2018-09-16,21:07:16,4.0,38808,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,5.0,0.2,127.9,12.8,Medium,credit_card
+2018-05-15,19:55:51,7.0,56608,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.1,55.8,5.6,Medium,credit_card
+2018-07-13,15:45:51,2.0,56673,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,4.0,0.3,105.7,10.6,High,money_order
+2018-11-01,18:52:12,5.0,31345,Female,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.2,32.3,3.2,Critical,credit_card
+2018-07-21,12:49:32,6.0,25891,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.2,33.3,3.3,Critical,credit_card
+2018-12-09,22:17:49,8.0,51017,Female,Web,Member,Auto & Accessories,Tyre,250.0,5.0,0.3,120.0,12.0,Medium,credit_card
+2018-03-09,17:27:58,7.0,20674,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,24.0,2.4,Medium,credit_card
+2018-11-01,10:48:19,10.0,18692,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,54.0,5.4,Medium,credit_card
+2018-09-09,13:56:45,2.0,14583,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,23.7,2.4,Medium,credit_card
+2018-08-10,19:27:28,8.0,16602,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.3,130.2,13.0,Medium,credit_card
+2018-09-27,11:08:59,7.0,25626,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.1,58.6,5.9,Critical,credit_card
+2018-03-06,15:26:09,2.0,32994,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.2,118.3,11.8,Medium,credit_card
+2018-04-30,22:37:50,4.0,58813,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.3,26.5,2.6,High,credit_card
+2018-10-05,13:24:46,10.0,38300,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,4.0,0.1,33.3,3.3,Critical,money_order
+2018-02-12,16:32:09,1.0,40978,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.1,162.5,16.3,Critical,credit_card
+2018-07-22,22:30:05,8.0,58697,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,24.0,2.4,Medium,credit_card
+2018-10-03,18:24:33,10.0,46213,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,27.0,2.7,Critical,credit_card
+2018-05-23,16:37:35,2.0,11829,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,28.3,2.8,High,credit_card
+2018-08-03,10:51:17,7.0,19828,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.1,148.7,14.9,Critical,credit_card
+2018-05-17,08:33:19,8.0,16258,Female,Web,Member,Auto & Accessories,Car Media Players,140.0,5.0,0.3,39.0,3.9,Medium,credit_card
+2018-11-10,13:42:06,3.0,15948,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.3,122.6,12.3,Critical,money_order
+2018-09-18,20:13:31,5.0,26655,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,4.0,0.3,23.0,2.3,Critical,e_wallet
+2018-02-27,14:43:47,4.0,43623,Female,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.3,28.6,2.9,Medium,e_wallet
+2018-08-05,17:27:54,6.0,47137,Male,Web,Member,Auto & Accessories,Tyre,250.0,5.0,,132.5,13.3,Medium,credit_card
+2018-04-16,14:32:06,6.0,21104,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,4.0,0.3,18.0,1.8,High,money_order
+2018-06-30,13:21:44,3.0,14728,Male,Web,Member,Auto & Accessories,Car Mat,54.0,5.0,0.3,10.8,1.1,Critical,credit_card
+2018-06-11,16:51:17,1.0,36570,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.1,30.6,3.1,Medium,credit_card
+2018-10-04,10:05:59,5.0,32969,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,5.0,0.3,93.3,9.3,High,credit_card
+2018-12-29,16:17:53,7.0,21451,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.3,48.8,4.9,High,credit_card
+2018-07-17,21:55:56,6.0,58443,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,5.0,0.3,88.8,8.9,Critical,credit_card
+2018-05-09,14:32:09,9.0,21503,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.3,19.5,1.9,Critical,credit_card
+2018-11-08,21:11:25,4.0,28323,Male,Web,Guest,Auto & Accessories,Car & Bike Care,118.0,5.0,0.3,8.5,0.9,Medium,credit_card
+2018-09-17,11:25:39,6.0,34295,Female,Web,Member,Auto & Accessories,Tyre,250.0,4.0,0.3,130.0,13.0,High,e_wallet
+2018-09-22,13:48:18,1.0,16865,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.2,24.0,2.4,Medium,money_order
+2018-03-11,21:43:24,1.0,21651,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,18.0,1.8,Medium,credit_card
+2018-05-04,10:29:14,9.0,30275,Female,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,16.9,1.7,High,credit_card
+2018-03-17,19:40:26,4.0,26043,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,5.0,0.3,116.4,11.6,High,money_order
+2018-03-21,04:59:55,6.0,17728,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.3,48.8,4.9,High,credit_card
+2018-08-27,10:05:56,10.0,55098,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,4.0,0.3,105.7,10.6,Critical,credit_card
+2018-12-18,20:59:28,5.0,35276,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.1,33.5,3.3,High,e_wallet
+2018-06-05,13:34:35,7.0,22183,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.2,33.3,3.3,High,credit_card
+2018-04-24,16:56:46,9.0,56911,Male,Web,Member,Auto & Accessories,Tyre,250.0,4.0,0.3,120.0,12.0,Critical,credit_card
+2018-03-24,17:34:12,5.0,33519,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,4.0,0.3,18.0,1.8,Medium,credit_card
+2018-12-29,15:08:14,3.0,43602,Male,Web,Guest,Auto & Accessories,Car Mat,54.0,1.0,0.1,54.0,5.4,High,credit_card
+2018-04-29,17:43:34,5.0,53167,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,20.3,2.0,High,credit_card
+2018-09-03,13:47:14,1.0,52182,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,5.0,0.3,116.4,11.6,Medium,money_order
+2018-09-20,16:18:26,7.0,37251,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.1,55.8,5.6,Medium,money_order
+2018-06-25,23:13:41,9.0,13031,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.3,122.6,12.3,Critical,e_wallet
+2018-05-08,14:38:14,6.0,17782,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.2,34.7,3.5,Medium,credit_card
+2018-10-16,19:05:54,1.0,11596,Female,Web,Member,Auto & Accessories,Car & Bike Care,118.0,4.0,0.3,23.8,2.4,Critical,credit_card
+2018-07-02,20:47:24,4.0,12494,Male,Web,Member,Auto & Accessories,Tyre,250.0,4.0,0.1,160.0,16.0,Medium,credit_card
+2018-06-23,23:59:03,6.0,22465,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,36.0,3.6,High,debit_card
+2018-06-16,22:34:16,6.0,22830,Male,Web,Member,Auto & Accessories,Car Mat,54.0,5.0,0.1,10.8,1.1,High,credit_card
+2018-08-22,15:04:08,8.0,52175,Female,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,29.4,2.9,High,credit_card
+2018-12-30,23:11:40,3.0,36086,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.2,141.8,14.2,Critical,money_order
+2018-08-12,18:48:56,9.0,21094,Female,Web,Member,Auto & Accessories,Car Media Players,140.0,5.0,0.3,32.0,3.2,High,credit_card
+2018-08-01,07:47:34,8.0,54590,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.3,122.6,12.3,Critical,money_order
+2018-10-06,14:21:47,9.0,52232,Female,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.3,32.3,3.2,Medium,e_wallet
+2018-04-17,13:12:47,8.0,30480,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,5.0,0.1,32.1,3.2,Medium,credit_card
+2018-06-30,17:36:43,4.0,13234,Male,Web,Member,Auto & Accessories,Tyre,250.0,4.0,0.3,130.0,13.0,Critical,credit_card
+2018-12-07,12:08:37,10.0,38389,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.1,24.0,2.4,Critical,money_order
+2018-06-10,09:04:09,10.0,52378,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,54.0,5.4,Critical,money_order
+2018-08-08,18:00:36,8.0,25341,Female,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,30.6,3.1,Medium,credit_card
+2018-10-30,21:57:55,6.0,13215,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,5.0,0.2,127.9,12.8,High,debit_card
+2018-11-08,10:49:59,8.0,54781,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,4.0,0.3,32.0,3.2,Medium,debit_card
+2018-01-05,05:23:47,2.0,10983,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,5.0,0.3,78.3,7.8,High,credit_card
+2018-09-10,14:58:16,9.0,55651,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,4.0,0.3,23.0,2.3,High,credit_card
+2018-08-08,18:56:45,1.0,39013,Female,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.3,23.8,2.4,Medium,credit_card
+2018-07-12,20:24:07,1.0,45528,Male,Web,Member,Auto & Accessories,Tyre,250.0,5.0,0.3,107.5,10.8,Critical,debit_card
+2018-04-24,14:15:53,6.0,41163,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,24.0,2.4,Medium,money_order
+2018-11-30,17:46:40,3.0,32770,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,27.0,2.7,High,credit_card
+2018-05-15,09:10:20,8.0,10207,Female,Web,Member,Auto & Accessories,Car Seat Covers,114.0,5.0,0.3,16.9,1.7,Critical,credit_card
+2018-06-22,19:22:26,3.0,55557,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.3,141.8,14.2,High,money_order
+2018-10-16,00:01:56,2.0,18046,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.2,51.6,5.2,Critical,credit_card
+2018-07-28,18:21:00,6.0,40604,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,5.0,0.3,88.8,8.9,High,credit_card
+2018-04-28,21:07:26,2.0,20047,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.3,23.0,2.3,High,credit_card
+2018-08-11,14:13:54,9.0,18455,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.2,35.6,3.6,High,credit_card
+2018-12-17,15:21:11,6.0,55796,Female,Web,Member,Auto & Accessories,Tyre,250.0,5.0,0.2,145.0,14.5,Critical,credit_card
+2018-10-03,11:52:11,2.0,40334,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.1,72.0,7.2,Medium,credit_card
+2018-05-07,21:49:08,2.0,26194,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,54.0,5.4,High,e_wallet
+2018-12-09,14:58:05,9.0,38060,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.2,31.7,3.2,High,credit_card
+2018-08-27,15:53:44,5.0,21830,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.3,123.3,12.3,Critical,credit_card
+2018-06-24,11:40:28,7.0,16088,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,4.0,0.1,54.4,5.4,High,credit_card
+2018-10-09,11:02:51,8.0,55811,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,4.0,0.3,88.8,8.9,High,credit_card
+2018-04-11,22:16:49,2.0,15544,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,4.0,0.2,27.6,2.8,High,credit_card
+2018-10-28,11:08:58,9.0,31640,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.2,33.3,3.3,High,credit_card
+2018-11-01,14:58:41,2.0,40363,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.2,160.0,16.0,Critical,credit_card
+2018-04-24,17:37:41,8.0,12683,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.2,36.0,3.6,Critical,e_wallet
+2018-08-03,14:56:55,3.0,44679,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,54.0,5.4,Critical,money_order
+2018-09-27,10:24:22,3.0,43945,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,4.0,0.3,11.2,1.1,Critical,credit_card
+2018-09-10,16:22:27,5.0,34733,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,4.0,0.1,141.8,14.2,High,credit_card
+2018-04-13,10:07:36,9.0,15226,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.3,46.0,4.6,Critical,credit_card
+2018-07-23,10:21:28,1.0,34203,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,4.0,0.1,122.6,12.3,Medium,credit_card
+2018-09-03,20:44:15,3.0,33895,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.3,33.5,3.3,Critical,credit_card
+2018-06-12,19:27:08,4.0,37209,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,5.0,0.2,26.2,2.6,High,credit_card
+2018-07-24,17:19:00,9.0,33441,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.3,150.0,15.0,High,credit_card
+2018-12-07,23:46:19,9.0,26391,Female,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,24.0,2.4,Medium,credit_card
+2018-10-05,11:36:11,1.0,24821,Female,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,27.0,2.7,Critical,e_wallet
+2018-08-15,23:27:21,10.0,56368,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,24.9,2.5,Medium,credit_card
+2018-10-29,00:10:49,8.0,54932,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,4.0,0.3,123.3,12.3,Medium,credit_card
+2018-06-19,21:07:32,1.0,49855,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,5.0,0.1,53.0,5.3,High,credit_card
+2018-12-29,12:00:11,3.0,35355,Female,Web,Member,Auto & Accessories,Car Speakers,211.0,5.0,0.3,99.4,9.9,High,credit_card
+2018-12-15,20:23:45,10.0,15936,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.3,26.5,2.6,High,credit_card
+2018-12-27,22:14:59,5.0,26255,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.3,34.5,3.4,Critical,credit_card
+2018-11-03,13:32:54,8.0,20787,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.2,165.0,16.5,Critical,credit_card
+2018-06-21,17:08:01,5.0,26129,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,24.0,2.4,Critical,credit_card
+2018-02-26,11:08:38,5.0,57975,Male,Web,Member,Auto & Accessories,Car Mat,54.0,4.0,0.3,13.5,1.4,Critical,debit_card
+2018-02-13,15:07:45,1.0,55454,Female,Web,Member,Auto & Accessories,Car Seat Covers,114.0,5.0,0.3,16.9,1.7,Critical,money_order
+2018-11-09,20:36:13,8.0,19572,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.3,116.4,11.6,High,credit_card
+2018-03-07,09:40:04,3.0,19699,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,5.0,0.2,46.0,4.6,Critical,credit_card
+2018-05-30,02:41:28,7.0,50565,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,5.0,0.3,78.3,7.8,Critical,credit_card
+2018-10-27,10:45:08,1.0,56744,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.3,33.5,3.3,Critical,money_order
+2018-03-08,04:45:26,6.0,23620,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.3,27.4,2.7,High,credit_card
+2018-12-09,15:09:28,8.0,27972,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.2,155.0,15.5,Critical,e_wallet
+2018-02-11,11:50:32,7.0,23134,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,4.0,0.3,18.0,1.8,Critical,credit_card
+2018-10-12,09:52:46,5.0,38188,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.1,54.0,5.4,High,credit_card
+2018-07-03,01:17:32,8.0,51376,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,4.0,0.3,20.3,2.0,High,credit_card
+2018-05-23,15:28:58,7.0,54777,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,5.0,0.3,104.8,10.5,High,credit_card
+2018-04-29,18:27:30,9.0,14094,Male,Web,Guest,Auto & Accessories,Car Media Players,140.0,5.0,0.3,32.0,3.2,Critical,credit_card
+2018-06-14,18:49:14,2.0,44566,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,4.0,0.3,97.2,9.7,High,money_order
+2018-11-23,15:40:22,6.0,55569,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.2,32.3,3.2,High,e_wallet
+2018-02-10,22:32:14,7.0,18577,Male,Web,Guest,Auto & Accessories,Car & Bike Care,118.0,4.0,0.3,19.1,1.9,High,credit_card
+2018-11-21,16:45:44,5.0,40774,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.3,155.0,15.5,Critical,credit_card
+2018-05-27,17:59:00,6.0,52110,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,72.0,7.2,High,credit_card
+2018-05-20,02:48:00,10.0,34171,Female,Web,Member,Auto & Accessories,Car Mat,54.0,4.0,0.2,13.5,1.4,Medium,credit_card
+2018-07-28,11:25:16,1.0,18296,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,28.3,2.8,Critical,credit_card
+2018-03-05,10:34:52,6.0,52969,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.1,146.4,14.6,High,credit_card
+2018-12-07,15:37:22,9.0,27073,Female,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.3,54.4,5.4,Medium,money_order
+2018-11-20,17:38:55,8.0,26740,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.1,124.7,12.5,High,credit_card
+2018-08-09,13:48:17,4.0,30584,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.3,23.0,2.3,High,money_order
+2018-11-02,14:41:02,10.0,19204,Male,Web,Guest,Auto & Accessories,Car & Bike Care,118.0,1.0,0.3,26.2,2.6,High,money_order
+2018-06-02,19:20:35,10.0,26533,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.3,150.0,15.0,Medium,credit_card
+2018-09-18,15:40:36,5.0,43254,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,72.0,7.2,Critical,money_order
+2018-06-05,11:04:11,3.0,41850,Male,Web,Member,Auto & Accessories,Car Mat,54.0,,0.2,54.0,5.4,Critical,credit_card
+2018-05-14,11:04:55,1.0,11266,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,23.7,2.4,Medium,credit_card
+2018-04-26,12:50:56,4.0,59218,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,5.0,0.1,139.5,13.9,High,credit_card
+2018-10-26,10:58:48,7.0,45011,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,4.0,0.1,54.4,5.4,High,credit_card
+2018-03-01,20:39:26,8.0,16546,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.1,128.9,12.9,Critical,money_order
+2018-05-26,18:35:51,3.0,24465,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,5.0,0.1,31.2,3.1,High,money_order
+2018-11-09,21:43:53,10.0,29481,Female,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.1,35.6,3.6,Critical,money_order
+2018-11-09,22:52:27,2.0,54987,Male,Web,Member,Auto & Accessories,Tyre,250.0,4.0,0.3,140.0,14.0,Medium,credit_card
+2018-09-01,18:27:01,5.0,25658,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,72.0,7.2,Critical,credit_card
+2018-09-19,13:45:55,7.0,33279,Female,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,54.0,5.4,High,credit_card
+2018-11-17,17:03:31,7.0,59529,Female,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.2,29.4,2.9,High,credit_card
+2018-11-16,10:39:48,5.0,39623,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.3,116.4,11.6,Critical,credit_card
+2018-07-01,20:54:21,4.0,30288,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.1,57.2,5.7,Medium,credit_card
+2018-08-22,20:53:14,9.0,20776,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,4.0,0.3,105.7,10.6,Critical,credit_card
+2018-11-24,19:01:02,4.0,59423,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.1,33.5,3.3,High,credit_card
+2018-11-11,20:58:44,2.0,35668,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.2,30.9,3.1,Critical,money_order
+2018-08-25,14:13:44,3.0,47705,Male,Web,Member,Auto & Accessories,Tyre,250.0,4.0,0.1,160.0,16.0,Critical,credit_card
+2018-07-11,17:22:56,9.0,57927,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,36.0,3.6,High,credit_card
+2018-07-30,16:16:19,4.0,30121,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,18.0,1.8,High,credit_card
+2018-01-11,17:31:49,9.0,21848,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.1,32.9,3.3,Critical,credit_card
+2018-05-09,17:11:41,8.0,14546,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,4.0,0.1,141.8,14.2,High,credit_card
+2018-04-25,16:23:49,2.0,47618,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,4.0,0.3,43.2,4.3,High,credit_card
+2018-07-24,12:45:26,9.0,43345,Female,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.3,112.0,11.2,Critical,credit_card
+2018-05-08,12:22:44,10.0,53988,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.3,32.3,3.2,Medium,credit_card
+2018-12-29,22:46:19,8.0,44033,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,4.0,0.2,28.6,2.9,High,credit_card
+2018-09-22,14:26:17,5.0,27301,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.1,162.5,16.3,Critical,credit_card
+2018-07-22,06:24:50,6.0,13805,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,36.0,3.6,High,money_order
+2018-11-14,17:48:09,7.0,48774,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,27.0,2.7,High,credit_card
+2018-03-19,13:02:13,3.0,11597,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,27.2,2.7,Critical,credit_card
+2018-01-25,13:32:46,4.0,21311,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,5.0,0.2,127.9,12.8,Critical,credit_card
+2018-07-30,19:05:32,3.0,49554,Female,Web,Member,Auto & Accessories,Car Media Players,140.0,4.0,0.3,43.2,4.3,Medium,money_order
+2018-07-06,18:16:06,1.0,17872,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.3,112.0,11.2,Critical,e_wallet
+2018-01-24,14:23:58,7.0,16894,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,5.0,0.3,7.8,0.8,Medium,money_order
+2018-10-12,20:54:25,5.0,47467,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.3,34.5,3.4,Critical,e_wallet
+2018-04-09,21:08:01,3.0,34973,Female,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.3,147.5,14.8,High,credit_card
+2018-08-23,08:03:00,3.0,42791,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.2,36.0,3.6,Critical,money_order
+2018-10-17,13:16:44,10.0,43899,Male,Web,Member,Auto & Accessories,Car Mat,54.0,5.0,0.1,10.8,1.1,High,money_order
+2018-05-29,12:35:44,10.0,41342,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.1,32.9,3.3,High,money_order
+2018-05-24,12:16:48,2.0,56908,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.1,148.7,14.9,Critical,credit_card
+2018-10-03,21:08:31,1.0,20906,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.3,48.8,4.9,High,credit_card
+2018-05-14,17:56:57,7.0,54494,Male,Web,Guest,Auto & Accessories,Car Speakers,211.0,1.0,0.2,126.8,12.7,High,credit_card
+2018-06-29,13:38:02,4.0,33098,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,5.0,0.3,7.8,0.8,High,credit_card
+2018-04-24,01:34:00,10.0,49059,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,4.0,0.3,23.8,2.4,Critical,money_order
+2018-01-05,07:31:49,1.0,11163,Male,Web,Member,Auto & Accessories,Tyre,250.0,5.0,0.1,157.5,15.8,Critical,credit_card
+2018-12-07,16:27:30,7.0,23517,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,36.0,3.6,High,credit_card
+2018-12-22,17:25:28,9.0,16754,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,18.0,1.8,Medium,money_order
+2018-04-06,18:20:00,5.0,29217,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,5.0,0.3,11.2,1.1,High,credit_card
+2018-05-19,18:13:54,5.0,19806,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,4.0,0.3,114.0,11.4,Critical,credit_card
+2018-03-16,13:51:18,7.0,38060,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,5.0,0.3,39.0,3.9,High,credit_card
+2018-09-18,13:13:47,4.0,59776,Female,Web,Member,Auto & Accessories,Car Speakers,211.0,4.0,0.2,114.1,11.4,Medium,money_order
+2018-12-29,20:53:48,2.0,16971,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.1,35.8,3.6,Medium,credit_card
+2018-10-23,19:24:21,1.0,56604,Male,Web,Guest,Auto & Accessories,Car & Bike Care,118.0,5.0,0.1,32.1,3.2,High,credit_card
+2018-11-06,09:12:33,5.0,12255,Male,Web,Member,Auto & Accessories,Tyre,250.0,5.0,0.3,132.5,13.3,Critical,credit_card
+2018-10-02,14:00:19,3.0,25969,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,24.0,2.4,High,money_order
+2018-04-06,16:24:03,4.0,50374,Male,Web,Member,Auto & Accessories,Car Mat,54.0,5.0,0.3,10.8,1.1,High,credit_card
+2018-10-27,11:10:11,4.0,59375,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,4.0,0.2,24.9,2.5,Critical,credit_card
+2018-09-14,22:06:32,3.0,33490,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,4.0,0.3,104.8,10.5,High,credit_card
+2018-12-26,11:02:31,1.0,51995,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.3,43.2,4.3,High,credit_card
+2018-03-04,18:26:12,7.0,49812,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,4.0,0.3,88.8,8.9,High,money_order
+2018-10-13,22:54:20,1.0,57014,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.2,32.3,3.2,Critical,money_order
+2018-08-02,15:26:38,3.0,25391,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.2,33.3,3.3,Medium,debit_card
+2018-11-10,19:47:29,3.0,53414,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.2,160.0,16.0,Critical,credit_card
+2018-02-05,18:24:22,7.0,54432,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,5.0,0.2,14.4,1.4,Medium,credit_card
+2018-03-07,20:38:37,8.0,34204,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,18.0,1.8,Critical,credit_card
+2018-04-19,16:12:34,10.0,20545,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.1,30.6,3.1,Medium,e_wallet
+2018-03-08,23:41:49,6.0,40072,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,5.0,0.3,93.3,9.3,Medium,credit_card
+2018-05-10,14:03:27,10.0,19742,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.2,57.2,5.7,Medium,credit_card
+2018-04-30,13:34:43,9.0,33672,Female,Web,Member,Auto & Accessories,Car Speakers,211.0,4.0,0.3,97.2,9.7,Medium,credit_card
+2018-12-19,21:50:14,4.0,10883,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.3,26.5,2.6,Critical,e_wallet
+2018-12-04,15:58:09,3.0,59682,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.3,34.5,3.4,Critical,credit_card
+2018-07-02,13:58:59,1.0,17797,Male,Web,Member,Auto & Accessories,Tyre,250.0,5.0,0.3,107.5,10.8,High,credit_card
+2018-09-06,13:44:08,9.0,54928,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,72.0,7.2,High,credit_card
+2018-11-12,12:04:03,5.0,16422,Female,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.2,54.0,5.4,High,credit_card
+2018-07-16,10:04:36,2.0,13901,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.1,32.9,3.3,High,credit_card
+2018-07-28,20:07:49,5.0,53297,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.3,127.9,12.8,Critical,credit_card
+2018-01-18,16:44:45,1.0,21392,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,5.0,0.3,25.0,2.5,Critical,credit_card
+2018-11-28,22:47:13,8.0,34327,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.3,124.7,12.5,High,credit_card
+2018-03-21,20:11:07,2.0,49734,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.3,23.0,2.3,Medium,money_order
+2018-04-27,13:33:35,9.0,21500,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.2,30.9,3.1,Critical,credit_card
+2018-07-22,13:04:47,3.0,11032,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.1,167.5,16.8,High,credit_card
+2018-05-08,19:48:01,5.0,41003,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,4.0,0.1,18.0,1.8,Critical,credit_card
+2018-04-18,11:30:58,6.0,41688,Male,Web,Member,Auto & Accessories,Car Mat,54.0,4.0,0.1,13.5,1.4,Critical,credit_card
+2018-05-11,09:13:17,6.0,22074,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,24.9,2.5,Critical,credit_card
+2018-03-27,19:19:44,8.0,59244,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.3,141.8,14.2,Critical,money_order
+2018-06-09,11:19:49,8.0,37384,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.3,51.6,5.2,Critical,credit_card
+2018-10-23,18:07:30,8.0,21435,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.1,126.8,12.7,Critical,credit_card
+2018-07-03,19:34:23,4.0,19652,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.3,31.2,3.1,Medium,money_order
+2018-10-08,21:18:45,6.0,20039,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,5.0,0.3,14.4,1.4,Critical,credit_card
+2018-01-17,18:22:05,3.0,51093,Female,Web,Member,Auto & Accessories,Tyre,250.0,5.0,0.3,120.0,12.0,Critical,credit_card
+2018-02-08,13:37:07,6.0,58369,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.2,24.0,2.4,Medium,credit_card
+2018-07-17,09:29:02,7.0,32533,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,54.0,5.4,Medium,money_order
+2018-05-07,20:57:42,1.0,28410,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,23.7,2.4,Critical,credit_card
+2018-11-01,16:54:38,1.0,24997,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,4.0,0.2,132.5,13.3,Medium,money_order
+2018-11-21,10:19:27,10.0,31395,Male,Web,Guest,Auto & Accessories,Car Media Players,140.0,1.0,0.2,54.4,5.4,High,credit_card
+2018-05-04,21:40:39,3.0,30737,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.3,118.3,11.8,High,money_order
+2018-12-08,15:59:11,7.0,46141,Female,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.3,33.5,3.3,Medium,credit_card
+2018-10-11,13:00:02,4.0,13321,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.3,30.9,3.1,Critical,credit_card
+2018-10-13,11:13:38,3.0,46756,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.3,162.5,16.3,Critical,credit_card
+2018-11-04,21:44:43,7.0,35025,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.2,24.0,2.4,High,credit_card
+2018-01-06,18:22:19,7.0,11776,Male,Web,Guest,Auto & Accessories,Car Mat,54.0,4.0,0.3,13.5,1.4,Medium,credit_card
+2018-05-19,12:14:08,3.0,26392,Female,Web,Guest,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,16.9,1.7,High,money_order
+2018-11-05,19:30:41,1.0,38557,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,4.0,0.3,104.8,10.5,Critical,credit_card
+2018-01-30,09:59:07,4.0,41214,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,5.0,0.3,25.0,2.5,High,credit_card
+2018-02-11,09:40:11,4.0,19107,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,4.0,0.3,97.2,9.7,Medium,credit_card
+2018-12-07,16:42:57,10.0,39542,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.3,25.3,2.5,High,money_order
+2018-06-13,15:43:58,10.0,54647,Female,Web,Member,Auto & Accessories,Car & Bike Care,118.0,4.0,0.3,14.4,1.4,Medium,credit_card
+2018-10-19,00:26:23,1.0,42462,Female,Web,Member,Auto & Accessories,Tyre,250.0,5.0,0.3,132.5,13.3,High,credit_card
+2018-12-16,11:31:18,4.0,50605,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,36.0,3.6,High,money_order
+2018-01-12,23:11:44,6.0,21596,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.2,54.0,5.4,Medium,credit_card
+2018-11-06,22:25:10,5.0,11919,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,30.6,3.1,High,credit_card
+2018-10-16,18:31:23,7.0,44736,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.3,137.1,13.7,High,credit_card
+2018-09-29,20:09:24,3.0,51214,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.1,58.6,5.9,Critical,credit_card
+2018-08-17,10:33:27,5.0,44433,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.2,122.6,12.3,High,e_wallet
+2018-11-01,17:57:54,5.0,13491,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,4.0,0.3,18.3,1.8,High,credit_card
+2018-12-04,22:59:50,6.0,22694,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,5.0,0.3,20.3,2.0,High,credit_card
+2018-08-21,13:18:37,3.0,23487,Female,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.2,160.0,16.0,High,money_order
+2018-01-09,19:42:43,6.0,56042,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,5.0,0.1,14.4,1.4,High,credit_card
+2018-06-26,13:32:22,7.0,34712,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,27.0,2.7,Medium,credit_card
+2018-06-27,00:34:10,10.5,52771,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,24.9,2.5,High,credit_card
+2018-02-18,01:02:11,9.0,51127,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.3,116.4,11.6,Medium,credit_card
+2018-09-03,23:09:50,9.0,15715,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.1,55.8,5.6,High,credit_card
+2018-10-04,08:33:09,8.0,39958,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.3,99.4,9.9,Medium,credit_card
+2018-02-14,18:32:52,8.0,40834,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.3,32.3,3.2,Medium,money_order
+2018-08-17,17:37:52,8.0,24868,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.1,35.6,3.6,High,credit_card
+2018-08-05,17:40:34,5.0,30499,Male,Web,Member,Auto & Accessories,Tyre,250.0,4.0,0.3,120.0,12.0,Critical,credit_card
+2018-06-25,15:47:27,10.0,17954,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.2,72.0,7.2,Critical,credit_card
+2018-09-27,14:17:37,5.0,38440,Female,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,27.0,2.7,Critical,credit_card
+2018-10-15,21:45:12,5.0,44991,Female,Web,Member,Auto & Accessories,Car Seat Covers,114.0,4.0,0.3,15.8,1.6,High,credit_card
+2018-03-06,09:53:36,10.0,12808,Male,Web,Guest,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.3,123.3,12.3,Critical,credit_card
+2018-06-14,15:42:20,9.0,21160,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,5.0,0.1,53.0,5.3,Medium,credit_card
+2018-11-01,16:37:54,4.0,15219,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.3,105.7,10.6,Critical,credit_card
+2018-05-20,10:33:47,8.0,34152,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,4.0,0.3,18.3,1.8,High,credit_card
+2018-07-01,21:12:33,10.0,32393,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.2,35.6,3.6,Critical,credit_card
+2018-05-21,21:10:35,8.0,15473,Male,Web,Member,Auto & Accessories,Tyre,250.0,5.0,0.1,157.5,15.8,High,credit_card
+2018-12-14,11:22:37,5.0,41516,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,24.0,2.4,Medium,credit_card
+2018-01-30,21:47:13,9.0,34990,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,18.0,1.8,Critical,credit_card
+2018-01-04,17:56:28,9.0,39623,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.1,31.7,3.2,Critical,credit_card
+2018-06-17,09:55:37,4.0,15438,Male,Web,Guest,Auto & Accessories,Car Pillow & Neck Rest,231.0,4.0,0.3,123.3,12.3,Critical,money_order
+2018-07-20,11:46:49,9.0,55295,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,4.0,0.3,37.6,3.8,Medium,credit_card
+2018-03-14,09:06:34,10.0,29470,Female,Web,Member,Auto & Accessories,Car Speakers,211.0,5.0,0.3,99.4,9.9,Critical,money_order
+2018-10-19,13:22:15,9.0,51532,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,5.0,0.2,25.3,2.5,High,credit_card
+2018-09-02,13:01:06,8.0,15093,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,5.0,0.3,14.4,1.4,High,credit_card
+2018-07-04,16:49:21,10.0,31944,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.2,155.0,15.5,High,money_order
+2018-09-13,17:26:06,8.0,46568,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,4.0,0.3,18.0,1.8,High,credit_card
+2018-07-24,11:32:11,4.0,44356,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.1,27.0,2.7,High,credit_card
+2018-07-05,11:55:58,3.0,44848,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.2,29.4,2.9,Medium,credit_card
+2018-09-30,20:24:33,1.0,21237,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.1,146.4,14.6,Critical,credit_card
+2018-05-03,14:31:43,5.0,21678,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,4.0,0.1,54.4,5.4,Medium,money_order
+2018-05-25,22:10:13,1.0,40940,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,5.0,0.3,78.3,7.8,Medium,credit_card
+2018-01-12,13:33:22,6.0,50786,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.3,32.3,3.2,Critical,credit_card
+2018-12-13,11:36:11,9.0,13626,Female,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.2,33.3,3.3,High,credit_card
+2018-04-20,16:21:04,10.0,57875,Female,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.3,160.0,16.0,High,money_order
+2018-04-26,15:47:51,5.0,28158,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.2,72.0,7.2,High,money_order
+2018-10-01,15:34:15,10.0,57407,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.1,18.0,1.8,High,credit_card
+2018-03-23,15:50:03,10.0,17806,Female,Web,Member,Auto & Accessories,Car Seat Covers,114.0,4.0,0.3,20.3,2.0,Critical,e_wallet
+2018-03-01,07:15:07,7.0,33588,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.1,144.1,14.4,Medium,credit_card
+2018-03-03,20:22:53,4.0,10412,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.3,54.4,5.4,Medium,debit_card
+2018-01-04,11:31:15,1.0,42771,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,4.0,0.3,105.7,10.6,High,credit_card
+2018-11-21,20:36:22,8.0,55390,Male,Web,Guest,Auto & Accessories,Car Body Covers,117.0,5.0,0.3,19.5,1.9,High,credit_card
+2018-04-02,14:51:11,4.0,33698,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.3,33.3,3.3,Medium,credit_card
+2018-10-23,11:23:50,6.0,29259,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.3,140.0,14.0,High,credit_card
+2018-05-10,16:04:42,3.0,13267,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,72.0,7.2,High,credit_card
+2018-08-13,09:35:10,6.0,23917,Male,Web,Member,Auto & Accessories,Car Mat,54.0,5.0,0.1,10.8,1.1,High,credit_card
+2018-02-13,20:30:02,3.0,31060,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.2,29.4,2.9,High,credit_card
+2018-09-11,14:59:05,2.0,54171,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.1,144.1,14.4,Critical,credit_card
+2018-12-19,23:15:51,2.0,43512,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.2,51.6,5.2,Medium,credit_card
+2018-04-03,12:56:49,10.0,27394,Male,Web,Guest,Auto & Accessories,Car Speakers,211.0,1.0,0.3,109.9,11.0,Critical,credit_card
+2018-04-27,19:41:55,7.0,14240,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.3,30.0,3.0,Critical,credit_card
+2018-07-18,16:16:28,2.0,23854,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.3,33.3,3.3,High,credit_card
+2018-05-06,10:27:56,6.0,10753,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.1,167.5,16.8,Medium,credit_card
+2018-04-11,12:10:02,2.0,12496,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,36.0,3.6,High,credit_card
+2018-08-20,21:31:59,7.0,53561,Male,Web,Member,Auto & Accessories,Car Mat,54.0,4.0,0.3,13.5,1.4,Medium,money_order
+2018-12-07,17:53:30,6.0,18190,Male,Web,Guest,Auto & Accessories,Car Seat Covers,114.0,5.0,0.2,22.6,2.3,Medium,credit_card
+2018-10-24,08:21:25,7.0,21930,Male,Web,Guest,Auto & Accessories,Car Pillow & Neck Rest,231.0,5.0,0.3,93.3,9.3,High,credit_card
+2018-11-06,18:45:01,5.0,48931,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,4.0,0.1,54.4,5.4,Critical,credit_card
+2018-11-04,10:46:33,6.0,32604,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.1,128.9,12.9,Medium,credit_card
+2018-05-03,14:31:13,8.0,25082,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,5.0,0.2,25.3,2.5,Medium,e_wallet
+2018-03-02,07:55:59,5.0,32190,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.2,35.6,3.6,High,credit_card
+2018-06-01,23:15:14,2.0,15014,Male,Web,Member,Auto & Accessories,Tyre,250.0,5.0,0.3,132.5,13.3,Critical,money_order
+2018-02-03,15:21:44,8.0,33996,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.1,36.0,3.6,High,credit_card
+2018-08-03,00:18:09,5.0,59545,Male,Web,Member,Auto & Accessories,Car Mat,54.0,5.0,0.3,10.8,1.1,Critical,credit_card
+2018-07-11,19:25:07,10.0,23517,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,5.0,0.3,5.5,0.6,Critical,credit_card
+2018-08-07,12:01:07,6.0,23280,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.3,116.4,11.6,High,money_order
+2018-12-23,12:21:17,3.0,47759,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,5.0,0.3,25.0,2.5,High,money_order
+2018-07-30,18:25:18,6.0,27330,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.3,118.3,11.8,Critical,credit_card
+2018-08-09,15:26:21,8.0,43602,Female,Web,Member,Auto & Accessories,Car Body Covers,117.0,4.0,0.3,13.6,1.4,Critical,credit_card
+2018-05-04,20:19:38,4.0,22559,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.3,20.3,2.0,High,e_wallet
+2018-04-26,12:15:07,9.0,59998,Male,Web,Member,Auto & Accessories,Tyre,250.0,5.0,0.3,107.5,10.8,High,credit_card
+2018-08-15,15:07:11,2.0,42180,Female,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,36.0,3.6,High,credit_card
+2018-11-30,05:31:43,2.0,40358,Male,Web,Member,Auto & Accessories,Car Mat,54.0,4.0,0.3,13.5,1.4,Critical,credit_card
+2018-08-11,10:53:48,2.0,52372,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,4.0,0.3,15.8,1.6,Critical,credit_card
+2018-05-08,14:59:40,9.0,49570,Female,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,5.0,0.3,116.4,11.6,High,credit_card
+2018-11-27,13:57:36,1.0,21874,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,4.0,0.3,37.6,3.8,Critical,credit_card
+2018-08-06,15:43:18,5.0,23205,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,5.0,0.3,88.8,8.9,High,money_order
+2018-06-16,10:02:20,10.0,32675,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,4.0,0.3,13.6,1.4,High,money_order
+2018-05-18,11:26:45,1.0,34434,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,5.0,0.1,32.1,3.2,Critical,credit_card
+2018-06-22,19:19:21,9.0,52137,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.2,160.0,16.0,High,credit_card
+2018-04-29,13:03:33,9.0,49319,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,4.0,0.3,18.0,1.8,Critical,credit_card
+2018-03-26,02:35:27,2.0,57559,Male,Web,Member,Auto & Accessories,Car Mat,54.0,5.0,0.3,10.8,1.1,High,money_order
+2018-03-12,20:54:42,5.0,39486,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.2,31.7,3.2,Critical,credit_card
+2018-11-04,09:09:37,4.0,15041,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,4.0,0.3,114.0,11.4,High,credit_card
+2018-08-24,08:45:01,4.0,48032,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.3,51.6,5.2,High,credit_card
+2018-11-05,11:05:53,10.0,37610,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,5.0,0.3,88.8,8.9,Medium,money_order
+2018-04-26,11:38:04,1.0,15787,Female,Web,Guest,Auto & Accessories,Car Body Covers,117.0,5.0,0.3,7.8,0.8,Medium,credit_card
+2018-12-23,11:43:13,3.0,12694,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.3,30.9,3.1,Critical,credit_card
+2018-05-17,07:17:54,2.0,21490,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.3,157.5,15.8,High,credit_card
+2018-03-09,17:13:50,7.0,20488,Female,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,72.0,7.2,High,credit_card
+2018-05-02,13:17:54,3.0,24055,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.2,27.0,2.7,High,credit_card
+2018-06-25,19:46:47,7.0,17207,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,16.9,1.7,High,credit_card
+2018-12-01,12:43:37,4.0,26971,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.3,141.8,14.2,Critical,credit_card
+2018-04-16,23:40:17,3.0,53404,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.3,39.0,3.9,Critical,credit_card
+2018-06-04,13:14:34,7.0,41454,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.3,112.0,11.2,High,credit_card
+2018-11-01,13:30:12,2.0,43804,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.2,34.7,3.5,Critical,credit_card
+2018-01-17,15:58:05,5.0,47523,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,4.0,0.3,19.1,1.9,High,credit_card
+2018-04-16,16:20:02,3.0,13777,Male,Web,Member,Auto & Accessories,Tyre,250.0,4.0,0.2,150.0,,Critical,credit_card
+2018-06-18,12:35:45,8.0,24202,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,4.0,0.2,18.0,1.8,High,credit_card
+2018-02-08,14:56:50,6.0,40152,Female,Web,Member,Auto & Accessories,Car Mat,54.0,5.0,0.1,10.8,1.1,Critical,debit_card
+2018-07-29,00:48:48,4.0,23775,Female,Web,Member,Auto & Accessories,Car Seat Covers,114.0,4.0,0.3,11.2,1.1,Critical,credit_card
+2018-09-25,21:33:39,6.0,18451,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.3,144.1,14.4,Critical,credit_card
+2018-09-26,09:49:09,8.0,16101,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.1,58.6,5.9,Critical,credit_card
+2018-12-01,20:30:22,6.0,26223,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,4.0,0.3,97.2,9.7,High,debit_card
+2018-11-16,09:44:23,1.0,29119,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.3,27.6,2.8,Medium,money_order
+2018-06-25,08:43:46,5.0,57194,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,5.0,0.1,32.1,3.2,High,credit_card
+2018-11-16,08:00:13,4.0,46125,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.3,157.5,15.8,High,money_order
+2018-05-21,13:16:36,6.0,41064,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,5.0,0.2,14.4,1.4,High,credit_card
+2018-05-12,00:18:28,10.0,40209,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,27.0,2.7,High,credit_card
+2018-06-03,16:29:52,1.0,19229,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,4.0,0.1,29.4,2.9,Critical,debit_card
+2018-11-30,09:31:20,10.0,33005,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,5.0,0.2,127.9,12.8,Medium,credit_card
+2018-07-12,18:45:24,5.0,46382,Female,Web,Member,Auto & Accessories,Car Media Players,140.0,5.0,0.1,53.0,5.3,High,credit_card
+2018-10-14,18:37:58,6.0,29039,Female,Web,Guest,Auto & Accessories,Car Speakers,211.0,1.0,0.2,126.8,12.7,Critical,credit_card
+2018-12-08,19:06:05,3.0,40331,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,1.0,0.2,30.0,3.0,High,credit_card
+2018-05-08,16:31:38,4.0,46163,Female,Web,Member,Auto & Accessories,Car & Bike Care,118.0,5.0,0.3,8.5,0.9,High,credit_card
+2018-04-16,13:18:14,10.0,33148,Female,Web,Guest,Auto & Accessories,Tyre,250.0,4.0,0.3,140.0,14.0,High,credit_card
+2018-10-29,23:08:50,3.0,35664,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,4.0,0.3,18.0,1.8,High,credit_card
+2018-11-26,10:26:53,5.0,14874,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.2,27.0,2.7,Critical,credit_card
+2018-06-15,00:14:21,6.0,57758,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,5.0,0.2,22.6,2.3,Critical,credit_card
+2018-10-05,19:53:27,6.0,57059,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.2,146.4,14.6,Critical,credit_card
+2018-12-04,09:55:08,9.0,13196,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,5.0,0.1,53.0,5.3,Medium,credit_card
+2018-07-04,23:29:52,10.0,15251,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.3,122.6,12.3,High,e_wallet
+2018-05-19,14:12:50,6.0,40163,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,4.0,0.3,18.3,1.8,High,credit_card
+2018-09-24,22:18:53,7.0,55095,Female,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.2,30.9,3.1,High,money_order
+2018-02-13,17:53:28,4.0,40197,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.2,165.0,16.5,High,credit_card
+2018-04-20,11:44:11,1.0,29585,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.3,24.0,2.4,High,credit_card
+2018-06-19,18:07:37,8.0,36563,Male,Web,Member,Auto & Accessories,Car Mat,54.0,4.0,0.3,13.5,1.4,High,money_order
+2018-05-07,01:09:09,1.0,33306,Female,Web,Member,Auto & Accessories,Car Seat Covers,114.0,4.0,0.1,29.4,2.9,High,money_order
+2018-05-30,10:16:12,10.0,40465,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,5.0,0.3,93.3,9.3,Critical,credit_card
+2018-07-30,20:47:50,4.0,57199,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.2,54.4,5.4,High,credit_card
+2018-05-30,17:47:23,6.0,10302,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.1,128.9,12.9,High,credit_card
+2018-07-12,22:14:06,5.0,59013,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,4.0,0.1,32.3,3.2,High,credit_card
+2018-03-07,15:40:14,1.0,46132,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,5.0,0.2,26.2,2.6,High,credit_card
+2018-03-10,23:35:48,6.0,56043,Male,Web,Member,Auto & Accessories,Tyre,250.0,4.0,0.3,130.0,13.0,Critical,credit_card
+2018-07-24,16:14:28,5.0,54151,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.2,36.0,3.6,Critical,credit_card
+2018-07-27,23:29:11,10.0,31095,Male,Web,Member,Auto & Accessories,Car Mat,54.0,4.0,0.3,13.5,1.4,Medium,credit_card
+2018-09-19,19:34:08,5.0,31446,Female,Web,Member,Auto & Accessories,Car Seat Covers,114.0,4.0,0.2,24.9,2.5,High,credit_card
+2018-04-28,08:02:38,10.0,39133,Male,Web,Guest,Auto & Accessories,Car Pillow & Neck Rest,231.0,1.0,0.3,116.4,11.6,High,credit_card
+2018-10-28,10:28:34,10.0,42616,Female,Web,Member,Auto & Accessories,Car Media Players,140.0,4.0,0.3,37.6,3.8,Medium,money_order
+2018-01-16,18:26:48,2.0,27354,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,5.0,0.1,120.5,12.0,Medium,credit_card
+2018-06-23,10:15:38,4.0,16564,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,4.0,0.2,27.6,2.8,High,credit_card
+2018-11-19,11:28:11,2.0,16405,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.3,23.8,2.4,High,credit_card
+2018-05-26,23:52:17,6.0,17844,Male,Web,Member,Auto & Accessories,Tyre,250.0,4.0,0.3,120.0,12.0,High,credit_card
+2018-02-21,22:33:55,9.0,31263,Male,Web,Member,Auto & Accessories,Bike Tyres,72.0,5.0,0.2,14.4,1.4,Medium,credit_card
+2018-05-04,00:12:31,5.0,15933,Male,Web,Member,Auto & Accessories,Car Mat,54.0,1.0,0.3,18.0,1.8,High,credit_card
+2018-03-20,14:00:18,5.0,14265,Male,Web,Member,Auto & Accessories,Car Seat Covers,114.0,1.0,0.3,29.4,2.9,Medium,credit_card
+2018-05-13,22:50:32,9.0,49817,Male,Web,Member,Auto & Accessories,Car Pillow & Neck Rest,231.0,4.0,0.3,114.0,11.4,High,money_order
+2018-08-16,09:17:44,10.0,19655,Male,Web,Member,Auto & Accessories,Car Media Players,140.0,1.0,0.2,57.2,5.7,High,credit_card
+2018-03-10,16:46:22,6.0,57025,Male,Web,Member,Auto & Accessories,Car Speakers,211.0,1.0,0.3,124.7,12.5,High,debit_card
+2018-03-11,23:18:07,5.0,21684,Male,Web,Member,Auto & Accessories,Car Body Covers,117.0,4.0,0.3,18.3,1.8,High,credit_card
+2018-12-10,11:45:28,10.0,16043,Male,Web,Member,Auto & Accessories,Car & Bike Care,118.0,1.0,0.1,36.8,3.7,Critical,credit_card
+2018-01-28,21:26:26,6.0,17308,Male,Web,Member,Auto & Accessories,Tyre,250.0,1.0,0.2,165.0,16.5,High,credit_card
+2018-08-22,14:54:45,8.0,58528,Female,Web,Member,Auto & Accessories,Bike Tyres,72.0,1.0,0.1,24.0,2.4,High,credit_card
