@@ -1,13 +1,13 @@
-# 🛒 E-Commerce Data Analysis (MySQL)
+# E-Commerce Data Analysis (MySQL)
 
-## 📌 Overview
+## Overview
 An end-to-end SQL project focused on extracting business intelligence from a transactional e-commerce dataset(Data). This project demonstrates database schema management, advanced querying, and performance optimization within **MySQL Workbench**.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Database:** MySQL
 * **Tool:** MySQL Workbench
 
-## 🧠 SQL Implementation & Skills
+## SQL Implementation & Skills
 ### 1. Data Aggregation & Logic
 * Utilized `SUM()`, `AVG()`, and `COUNT()` alongside `GROUP BY` and `HAVING` to isolate high-value sales trends.
 * Implemented complex **Subqueries** to benchmark individual product performance against global averages.
@@ -20,7 +20,7 @@ An end-to-end SQL project focused on extracting business intelligence from a tra
 * Applied **Indexing** on high-traffic columns (`Customer_Id`, `Order_Date`) to reduce query execution time.
 * Optimized filtering logic to ensure scalable performance as the dataset grows.
 
-## 📈 Key Business Insights
+## Key Business Insights
 * **Top Performers:** Identified the highest-grossing product categories and seasonal sales peaks.
 * **Customer Behavior:** Segmented users by lifetime value and purchasing frequency.
 * **Profitability Analysis:** Evaluated how discount strategies influenced net profit margins.
